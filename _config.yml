@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wu Qingze/吴清泽"
-  avatar           : "profile00.jpeg"
+  avatar           : "profile01.jpeg"
   bio              : "Senior Software Engineer C/C++/Java/Bash"
   location         : "Shanghai, China 上海"
   employer         :
@@ -112,7 +112,6 @@ author:
   twitter          : "nongxiaolang"
   vine             :
   weibo            : "https://weibo.com/6623796701"
-  bilibili         : "https://space.bilibili.com/13226603"
   xing             :
   youtube          :
   wikipedia        :
